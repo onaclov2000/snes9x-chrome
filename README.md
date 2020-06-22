@@ -13,6 +13,13 @@ You'll need to install these things:
 
 Tyson Note: I'm not sure if we need to have the native-client sdk from above, or if just the webports is enough,  haven't gotten it building yet.
 
+# Webports
+Take a look at the readme in the main folder of webports to be sure you got everything.
+````
+sudo apt-get install python-dev bash make curl sed git cmake texinfo gettext pkg-config autoconf automake libtool libglib2.0-dev xsltproc zlib1g-dev:i386 libssl-dev:i386
+````
+
+
 apply a tiny patch (to enable persistent saving)
 ```
 diff --git a/ports/snes9x/nacl.patch b/ports/snes9x/nacl.patch
