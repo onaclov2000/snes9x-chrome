@@ -7,6 +7,7 @@ BUILDING
 You'll need to install these things:
 - https://developer.chrome.com/native-client/sdk/download
 - https://www.chromium.org/developers/how-tos/install-depot-tools
+    * https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools_tutorial.html#_setting_up
 - https://code.google.com/p/naclports/wiki/HowTo_Checkout
 - https://chromium.googlesource.com/webports/
 
