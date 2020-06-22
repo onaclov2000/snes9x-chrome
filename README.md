@@ -16,7 +16,7 @@ Tyson Note: I'm not sure if we need to have the native-client sdk from above, or
 # Webports
 Take a look at the readme in the main folder of webports to be sure you got everything.
 ````
-sudo apt-get install python-dev bash make curl sed git cmake texinfo gettext pkg-config autoconf automake libtool libglib2.0-dev xsltproc zlib1g-dev:i386 libssl-dev:i386
+sudo apt-get install python-dev bash make curl sed git cmake texinfo gettext pkg-config autoconf automake libtool libglib2.0-dev xsltproc zlib1g-dev:i386 libssl-dev:i386 libstdc++6:i386 libglib2.0-0:i386
 ````
 
 
