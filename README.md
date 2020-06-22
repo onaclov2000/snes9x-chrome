@@ -8,6 +8,9 @@ You'll need to install these things:
 - https://developer.chrome.com/native-client/sdk/download
 - https://www.chromium.org/developers/how-tos/install-depot-tools
 - https://code.google.com/p/naclports/wiki/HowTo_Checkout
+- https://chromium.googlesource.com/webports/
+
+Tyson Note: I'm not sure if we need to have the native-client sdk from above, or if just the webports is enough,  haven't gotten it building yet.
 
 apply a tiny patch (to enable persistent saving)
 ```
